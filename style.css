@@ -134,6 +134,7 @@ body {
 .variant {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .stackdiv_content {
