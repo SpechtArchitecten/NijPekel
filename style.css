@@ -8,6 +8,7 @@ body {
   min-height: 100vh;
   background-color: #f8f9fa;
   text-align: center;
+  padding-bottom: 50px;
 }
 .landing-page {
   display: flex;
