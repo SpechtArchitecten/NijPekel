@@ -130,3 +130,13 @@ body {
   z-index: 5;
   cursor: grab;
 }
+
+.stackdiv_container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.stackdiv_content {
+  flex: 1;
+}
