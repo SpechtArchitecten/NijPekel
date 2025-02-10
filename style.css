@@ -133,6 +133,7 @@ body {
 
 .variant {
   display: flex;
+  flex-direction: column;
 }
 
 .stackdiv_content {
